@@ -7,7 +7,7 @@ It Consists of two projects:
 
 This repository contains the code for Store Frontend
 
-Key Features:
+<ins>**Key Features**</ins>:
 
   - The frontend can be connected to the admin panel using APIs.
   - Admin Dashboard serves as CMS, Admin and API.
